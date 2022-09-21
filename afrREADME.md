@@ -6,7 +6,7 @@ Nossa missão é:<strong><i><div style=" float: right">Proporcionar auto-estima 
 
 <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
 
-  # Autores
+  # Autor
 <https://www.instagram.com/pfp.andre/?next=%2F>
   <br><sub>ANDRÉ FELIPE RAMOS</sub>
   <h1>
