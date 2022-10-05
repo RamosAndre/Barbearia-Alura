@@ -6,7 +6,3 @@ Nossa missão é:<strong><i><div style=" float: right">Proporcionar auto-estima 
 
 <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
 
-  # Autor
- 
-https://github.com/RamosAndre
-  <br><sub>ANDRÉ FELIPE RAMOS</sub>
